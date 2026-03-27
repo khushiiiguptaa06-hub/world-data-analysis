@@ -39,6 +39,5 @@ This project focuses on analyzing global data including countries, cities, and l
 * Creating meaningful visualizations using Matplotlib
 * Extracting real-world insights from data
 
-
-⭐ This project demonstrates beginner-level data analysis skills using real-world datasets.
+This project demonstrates beginner-level data analysis skills using real-world datasets.
 
